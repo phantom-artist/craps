@@ -1,3 +1,3 @@
 # craps
 
-Just for fun
+Interactive ASCII craps, just for fun...
