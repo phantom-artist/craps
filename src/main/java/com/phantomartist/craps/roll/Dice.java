@@ -1,5 +1,8 @@
 package com.phantomartist.craps.roll;
 
+import com.phantomartist.craps.game.Crap;
+import com.phantomartist.craps.game.Point;
+
 public class Dice {
     
     private Die die1;

@@ -1,5 +1,7 @@
 package com.phantomartist.craps;
 
+import com.phantomartist.craps.game.Game;
+
 /**
  * Wrapper
  */

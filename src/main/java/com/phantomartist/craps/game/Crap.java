@@ -1,4 +1,4 @@
-package com.phantomartist.craps.roll;
+package com.phantomartist.craps.game;
 
 public enum Crap {
 
